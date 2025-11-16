@@ -3,7 +3,7 @@
 **Hamza Amezouar**  
 📍 Morocco  
 🏫 42 Student — [1337.ma](https://1337.ma)  
-📧 Email: hamza.amezouar@example.com  
+📧 Email: gymamezouar@gamil.com  
 💻 GitHub: [hamza-amezouar](https://github.com/hamezouar)
 
 # Libft
